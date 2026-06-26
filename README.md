@@ -115,4 +115,4 @@ Or connect your GitHub repository to Vercel for automatic deployments.
 
 ## Live Demo
 
-[View Live Demo](https://nexusai.vercel.app)
+[View Live Demo](https://nexus-ai-theta-two.vercel.app/)
