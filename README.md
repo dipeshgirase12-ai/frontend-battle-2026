@@ -9,7 +9,7 @@
 
 **Version:** `0.1.0`  
 **License:** MIT  
-**Live Demo:** https://nexusai.vercel.app  
+**Live Demo:** https://nexus-ai-theta-two.vercel.app/  
 **GitHub Repo:** *(add your public repo URL when publishing)*
 
 ---
