@@ -22,7 +22,7 @@ A premium, high-converting landing page with a premium AI-themed hero, telemetry
 
 ## Live Demo
 
-- **Website:** https://nexusai.vercel.app
+- **Website:** https://nexus-ai-theta-two.vercel.app/
 
 ---
 
@@ -192,7 +192,7 @@ MIT
 ## Author
 
 **NexusAI**  
-Live: https://nexusai.vercel.app
+Live: https://nexus-ai-theta-two.vercel.app/
 
 ---
 
